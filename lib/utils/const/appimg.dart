@@ -1,0 +1,32 @@
+class AppImg{
+  static const slider1="assets/images/slider1.png";
+  static const slider2="assets/images/slider2.png";
+  static const slider3="assets/images/slider3.png";
+  static const slider4="assets/images/slider4.png";
+  static const slider_next="assets/images/slidernext.png";
+  static const location="assets/images/location.png";
+  static const search="assets/images/search.png";
+  static const user="assets/images/user.png";
+  static const circle="assets/images/circle.png";
+  static const addplus="assets/images/addplus.png";
+  static const close="assets/images/close.png";
+  static const headphone="assets/images/Headphones.png";
+  static const information="assets/images/information.png";
+  static const google="assets/images/search 1.png";
+  static const facebook="assets/images/facebook 1.png";
+  static const twitter="assets/images/twitter 1.png";
+  static const arrow="assets/images/Arrow 1.png";
+  static const playbutton="assets/images/play-button 1.png";
+  static const check="assets/images/check.png";
+  static const image1="assets/images/Image (1).png";
+  static const image2="assets/images/Image (2).png";
+  static const image3="assets/images/Image (3).png";
+  static const image4="assets/images/Image (4).png";
+  static const peer_vendor="assets/images/peer_vendors.png";
+  static const phone="assets/images/phone.png";
+  static const productarea="assets/images/productarea.png";
+  static const rectangle="assets/images/Rectangle.png";
+  static const redwatch="assets/images/redwatch.png";
+  static const teaser="assets/images/Teaser2 1.png";
+  static const watch="assets/images/watch.png";
+}
